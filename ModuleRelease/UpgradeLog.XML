@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ModuleRelease">
+</Property><Property Name="ソリューション ファイル" Value="C:\git\TestProject\ModuleRelease\ModuleRelease.sln">
+</Property><Property Name="ユーザー オプション ファイル" Value="C:\git\TestProject\ModuleRelease\ModuleRelease.suo">
+</Property><Property Name="Date" Value="2011年5月12日">
+</Property><Property Name="Time" Value="8:29">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ModuleRelease.sln" Description="ファイルは正常に C:\git\TestProject\ModuleRelease\Backup\ModuleRelease.sln としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="" Source="ModuleRelease.suo" Description="ファイルは正常に C:\git\TestProject\ModuleRelease\Backup\ModuleRelease.suo としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ModuleRelease" Source="ModuleRelease\ModuleRelease.vbproj" Description="プロジェクト ファイルは正常に C:\git\TestProject\ModuleRelease\Backup\ModuleRelease\ModuleRelease.vbproj としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ModuleRelease" Source="ModuleRelease\IniFile.vb" Description="ファイルは正常に C:\git\TestProject\ModuleRelease\Backup\ModuleRelease\IniFile.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ModuleRelease" Source="ModuleRelease\ModuleRelease.vb" Description="ファイルは正常に C:\git\TestProject\ModuleRelease\Backup\ModuleRelease\ModuleRelease.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ModuleRelease" Source="ModuleRelease\ModuleRelease.Designer.vb" Description="ファイルは正常に C:\git\TestProject\ModuleRelease\Backup\ModuleRelease\ModuleRelease.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ModuleRelease" Source="ModuleRelease\My Project\AssemblyInfo.vb" Description="ファイルは正常に C:\git\TestProject\ModuleRelease\Backup\ModuleRelease\My Project\AssemblyInfo.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ModuleRelease" Source="ModuleRelease\My Project\Application.Designer.vb" Description="ファイルは正常に C:\git\TestProject\ModuleRelease\Backup\ModuleRelease\My Project\Application.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ModuleRelease" Source="ModuleRelease\My Project\Resources.Designer.vb" Description="ファイルは正常に C:\git\TestProject\ModuleRelease\Backup\ModuleRelease\My Project\Resources.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ModuleRelease" Source="ModuleRelease\Message.ini" Description="ファイルは正常に C:\git\TestProject\ModuleRelease\Backup\ModuleRelease\Message.ini としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ModuleRelease" Source="ModuleRelease\ModuleRelease.ini" Description="ファイルは正常に C:\git\TestProject\ModuleRelease\Backup\ModuleRelease\ModuleRelease.ini としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ModuleRelease" Source="ModuleRelease\My Project\Application.myapp" Description="ファイルは正常に C:\git\TestProject\ModuleRelease\Backup\ModuleRelease\My Project\Application.myapp としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ModuleRelease" Source="ModuleRelease\app.config" Description="ファイルは正常に C:\git\TestProject\ModuleRelease\Backup\ModuleRelease\app.config としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ModuleRelease" Source="ModuleRelease\Image\copy.gif" Description="ファイルは正常に C:\git\TestProject\ModuleRelease\Backup\ModuleRelease\Image\copy.gif としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ModuleRelease" Source="ModuleRelease\Image\exit.gif" Description="ファイルは正常に C:\git\TestProject\ModuleRelease\Backup\ModuleRelease\Image\exit.gif としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ModuleRelease" Source="ModuleRelease\Image\folder.gif" Description="ファイルは正常に C:\git\TestProject\ModuleRelease\Backup\ModuleRelease\Image\folder.gif としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ModuleRelease" Source="ModuleRelease\Image\cancel.gif" Description="ファイルは正常に C:\git\TestProject\ModuleRelease\Backup\ModuleRelease\Image\cancel.gif としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ModuleRelease" Source="ModuleRelease\Image\Release.ico" Description="ファイルは正常に C:\git\TestProject\ModuleRelease\Backup\ModuleRelease\Image\Release.ico としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ModuleRelease" Source="ModuleRelease\log4net.dll" Description="ファイルは正常に C:\git\TestProject\ModuleRelease\Backup\ModuleRelease\log4net.dll としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ModuleRelease" Source="ModuleRelease\ModuleRelease.resx" Description="ファイルは正常に C:\git\TestProject\ModuleRelease\Backup\ModuleRelease\ModuleRelease.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ModuleRelease" Source="ModuleRelease\My Project\Resources.resx" Description="ファイルは正常に C:\git\TestProject\ModuleRelease\Backup\ModuleRelease\My Project\Resources.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ModuleRelease" Source="ModuleRelease\ModuleRelease.vbproj" Description="プロジェクトは正常に変換されました。">
+</Event><Event ErrorLevel="3" Project="ModuleRelease" Source="ModuleRelease\ModuleRelease.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ModuleRelease.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="ModuleRelease.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ModuleRelease" Source="ModuleRelease\ModuleRelease.vbproj" Description="スキャンが完了しました: プロジェクト ファイルにアップグレードは必要ありません。">
+</Event></UpgradeLog>

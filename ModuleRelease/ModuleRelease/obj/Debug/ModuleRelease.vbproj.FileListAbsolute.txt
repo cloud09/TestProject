@@ -1,0 +1,15 @@
+C:\git\TestProject\ModuleRelease\ModuleRelease\bin\Debug\ModuleRelease.exe.config
+C:\git\TestProject\ModuleRelease\ModuleRelease\bin\Debug\Message.ini
+C:\git\TestProject\ModuleRelease\ModuleRelease\bin\Debug\ModuleRelease.ini
+C:\git\TestProject\ModuleRelease\ModuleRelease\bin\Debug\ModuleRelease.exe
+C:\git\TestProject\ModuleRelease\ModuleRelease\bin\Debug\ModuleRelease.pdb
+C:\git\TestProject\ModuleRelease\ModuleRelease\bin\Debug\log4net.dll
+C:\git\TestProject\ModuleRelease\ModuleRelease\obj\Debug\ResolveAssemblyReference.cache
+C:\git\TestProject\ModuleRelease\ModuleRelease\obj\Debug\KobelcoSystem.ModuleRelease.resources
+C:\git\TestProject\ModuleRelease\ModuleRelease\obj\Debug\KobelcoSystem.Resources.resources
+C:\git\TestProject\ModuleRelease\ModuleRelease\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\git\TestProject\ModuleRelease\ModuleRelease\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\git\TestProject\ModuleRelease\ModuleRelease\obj\Debug\GenerateResource.read.1.tlog
+C:\git\TestProject\ModuleRelease\ModuleRelease\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\git\TestProject\ModuleRelease\ModuleRelease\obj\Debug\ModuleRelease.exe
+C:\git\TestProject\ModuleRelease\ModuleRelease\obj\Debug\ModuleRelease.pdb
